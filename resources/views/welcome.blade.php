@@ -63,7 +63,7 @@ $Products=App\Models\Products::where('status','=','1')->get();
 <!-- Products Starts Here -->
 <section id="Products" align="center" class="px-5 wow animated fadeInUpBig fast" style=" font-family: 'Balsamiq Sans', cursive;">
   
-    <h1 class="black-text" style="font-weight:bold;">PRODUCTS</h1> 
+    <h1 class="black-text" style="font-weight:bold;">RECIPES</h1> 
     <div align="center">
         <p  class="col-md-2" style=" border-bottom: 2px solid #003399;"></p>
     </div>

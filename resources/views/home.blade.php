@@ -20,7 +20,7 @@
         <img src=" {{asset('public/Img/about.png')}}" alt="" class="img-fluid" >
         </div>
         <div  align="center" class="col-md-8">
-            <h1 class="black-text" style="font-weight:bold;">About Gainloe</h1>
+            <h1 class="black-text" style="font-weight:bold;">About RecipyMart</h1>
             <div class="col-md-3" style=" border-bottom: 2px solid #003399;"></div>
             <div class="row my-5" style="font-size:30px;">
               <div class="col-md-6" >
@@ -53,7 +53,7 @@ $Products=App\Models\Products::where('status','=','1')->get();
 <!-- Products Starts Here -->
 <section id="Products" align="center">
   
-    <h1 class="black-text" style="font-weight:bold;">PRODUCTS</h1>
+    <h1 class="black-text" style="font-weight:bold;">RECIPES</h1>
     <div style=" border-bottom: 2px solid #003399;width:100px;margin-left:45%;"></div>
     <div  class="row "  >
       @foreach($Products as $item)

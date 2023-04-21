@@ -4,10 +4,10 @@
 @section('description') @endsection
 @section('content')
  
-<div align="center" style="background:#1CD5E8;padding:20px;">
+<div align="center" style="background:#FF8500;padding:20px;">
 <h3  class="black-text" style="font-weight:bold;margin-top:15px;">
-THE GAINLOE STORY</h3>
-<p class="white-text" style="font-weight:bold;">    JOURNEY OF GAINLOE FROM IDEATION TO STARTUP</p>
+THE RECIPYMART STORY</h3>
+<p class="white-text" style="font-weight:bold;">RecipyMart is Online Recipy Exploring Platform that You Can Buy Your Favorite Recipes at a Glance</p>
   
 
 </div>
